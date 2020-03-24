@@ -32,7 +32,7 @@ public class AgonesSDK {
     }
 
     public AgonesSDK() {
-        this("localhost", 59358);
+        this("localhost", System.getenv("AGONES_SDK_HTTP_PORT"));
     }
 
     public void ready() {
