@@ -22,7 +22,7 @@ Add dependency
 <dependencies>
     ...
     <dependency>
-        <groupId>com.github.BeMacized</groupId>
+        <groupId>com.github.jgoldin-skillz</groupId>
         <artifactId>agones-java-sdk</artifactId>
         <version>master-SNAPSHOT</version>
     </dependency>
@@ -44,7 +44,7 @@ Add dependency
 ```groovy
 dependencies {
     ...
-    implementation 'com.github.BeMacized:agones-java-sdk:master-SNAPSHOT'
+    implementation 'com.github.jgoldin-skillz:agones-java-sdk:master-SNAPSHOT'
 }
 ```
 
